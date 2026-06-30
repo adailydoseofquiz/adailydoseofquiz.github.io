@@ -19,7 +19,7 @@
       the sheet every time someone visits.
    ========================================================= */
 
-const SHEET_CSV_URL = "PASTE_YOUR_PUBLISHED_GOOGLE_SHEET_CSV_LINK_HERE";
+const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/16hisy9H15Q4f0sLKx_IT9iytEjxuKtdinb4yNIFyrAA/edit?usp=sharing";
 
 /* Visit counter — free, no signup needed.
    Just keep this as-is; it auto-generates a unique badge per site. */
